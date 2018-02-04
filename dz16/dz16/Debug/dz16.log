@@ -1,0 +1,3 @@
+﻿  Source.cpp
+c:\users\blackus\desktop\proekti\dz16\dz16\source.cpp(60): warning C4715: CountWords: значение возвращается не при всех путях выполнения
+  dz16.vcxproj -> C:\Users\Blackus\Desktop\Proekti\dz16\Debug\dz16.exe
